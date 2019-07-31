@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "2.0",
-  "description": "宿舍用能收费小程序",
+  "projectname": "HHDT",
+  "description": "昊华电通",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,

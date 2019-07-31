@@ -1,6 +1,6 @@
 const config = {
-  projectName: '2.0',
-  date: '2019-4-18',
+  projectName: 'HHDT',
+  date: '2019-7-31',
   designWidth: 750,
   deviceRatio: {
     '640': 2.34 / 2,
@@ -90,7 +90,8 @@ const config = {
           }
         }
       }
-    }
+    },
+    esnextModules: ['taro-ui']
   }
 }
 
